@@ -54,7 +54,7 @@ a:hover{text-decoration:underline}
 .mininav a.selected{font-weight:700;color:#fff}
 .p-wrapper{width:960px;margin:0 auto;text-align:center;padding-bottom:55px}
 .bobologo{position:relative}
-.bobologo img{width:100%;-moz-min-width:150px;-ms-min-width:150px;-o-min-width:150px;-webkit-min-width:150px;min-width:150px}
+.bobologo img{width:550px;-moz-min-width:150px;-ms-min-width:150px;-o-min-width:150px;-webkit-min-width:150px;min-width:150px}
 .searchbox .search{background:#fff;height:42px;line-height:42px;border:1px solid #00a9f6;display:block;overflow:hidden;border-radius:0px;}
 .searchbox .search .wd{height:42px;line-height:42px;overflow:hidden;text-align:left;position:relative;right:0;top:0}
 .searchbox .search .wd input{display:block;height:42px;line-height:42px;width:100%;outline:0 none;border:0;font-size:16px;padding-left:7px}
