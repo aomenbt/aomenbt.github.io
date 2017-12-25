@@ -1,4 +1,19 @@
-﻿@charset "utf-8";
+
+
+功能
+ 企业版 会员 冒泡 更新 帮助
+注册 登录
+项目logocdn1/cn  收藏 0   关注 0  Fork 0
+私人图床
+HTTPS  
+https://git.coding.net/cdn1/cn.git
+代码 分支 标签 版本对比 Pull Request 项目网络 项目统计 讨论
+ master
+寻找文件  提交历史 cn / css / style.css
+86d7c4a09e   提交于 11-01 04:53 @jgmbt jgmbt css
+原始数据 按行查看 提交历史
+ file  9.68 KB
+@charset "utf-8";
 *{margin:0;word-wrap:break-word;-moz-word-break:normal;-o-word-break:normal;word-break:normal}
 body,html{padding:0;margin:0;width:100%;height:100%;/* font-family:Microsoft Yahei,arial; */font-family: "lucida grande", "lucida sans unicode", lucida, helvetica, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;font-size:14px}
 a{color:#00a9f6;text-decoration:none}
@@ -79,7 +94,7 @@ a:hover{text-decoration:underline}
 .ssbox .slist{padding:5px 5px 5px;}
 .ssbox .slist ul{padding:0;margin:0;padding-left:8px;list-style:none}
 .ssbox .slist ul li{text-decoration:none;line-height:20px;}
-.ssbox .slist ul li img{display:inline-block;height:14px;width:14px;vertical-align:middle;margin-right:3px;}
+.ssbox .slist ul li img{display:inline-block;height:16px;width:16px;vertical-align:middle;margin-right:3px;}
 .ssbox .slist,.ssbox .slist p{color:#222!important;line-height:1.4!important;font-size:13px;word-wrap:break-word}
 .ssbox .slist2{padding:5px 5px 5px;font-weight:normal;}
 .ssbox .slist2 ul{padding:0;margin:0;padding-left:8px;list-style:none}
